@@ -1,5 +1,5 @@
 # EBDR
-Eigenvalue-Based Block Diagonal Representation and Application to p-Nearest Neighbor Graphs
+Eigenvalue-Based Block Diagonal Representation (EBDR) and Application to p-Nearest Neighbor Graphs
 
 We proposed EBDR, an unsupervised block diagonal representation method that uses the eigenvalues of a block diagonal affinity matrix, to deduce 
 the sparsity level. Therefore, we first analyze the eigenvalues of the Laplacian matrix based on an ideal block diagonal model (Theorem 1). Then, 
